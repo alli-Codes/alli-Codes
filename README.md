@@ -28,7 +28,10 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/slickcodes" target="_blank">
+  <a href="https://twitter.com/alli_codes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://instagram.com/alli_codes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="allisonevans081@gmail.com" target="_blank">
